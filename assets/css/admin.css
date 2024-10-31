@@ -1,0 +1,95 @@
+.reshortz_posts-column__shortcode {
+}
+
+.reshortz_text_copied {
+    display: none;
+}
+
+.reshortz_text_copied {
+    color: #01a701;
+}
+
+.reshortz-admin__analytics_wrapper {
+    background: #eaefff;
+    padding: 20px;
+}
+
+.reshortz-admin__analytics {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+.reshortz-analytics_item {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+}
+
+.reshort-analytics__icon svg {
+    fill: #aacaec;
+    width: 30px;
+    height: 30px;
+}
+
+table.reshortz-table {
+    border: 1px solid #B3E6F1;
+    background-color: #EEEEEE;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+table.reshortz-table td, table.reshortz-table th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+}
+table.reshortz-table tbody td {
+    font-size: 13px;
+}
+table.reshortz-table tr:nth-child(even) {
+    background: #D0E4F5;
+}
+table.reshortz-table thead {
+    background: #1C6EA4;
+    background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+    border-bottom: 2px solid #444444;
+}
+table.reshortz-table thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    border-left: 2px solid #D0E4F5;
+}
+table.reshortz-table thead th:first-child {
+    border-left: none;
+}
+
+table.reshortz-table tfoot {
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #D0E4F5;
+    background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+    border-top: 2px solid #444444;
+}
+table.reshortz-table tfoot td {
+    font-size: 14px;
+}
+table.reshortz-table tfoot .links {
+    text-align: right;
+}
+table.reshortz-table tfoot .links a{
+    display: inline-block;
+    background: #1C6EA4;
+    color: #FFFFFF;
+    padding: 2px 8px;
+    border-radius: 5px;
+}

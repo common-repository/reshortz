@@ -1,0 +1,11 @@
+{
+  "name": "reshortz",
+  "scripts": {
+    "compile-styles": "node-sass --output-style expanded --source-map true --source-map-contents true --precision 6 assets/scss/styles.scss assets/css/reshortz.css",
+    "css-minify": "cleancss --level 1 --format breaksWith=lf --source-map --source-map-inline-sources --output  assets/scss/styles.scss assets/css/reshortz.min.css  assets/scss/styles.scss assets/css/reshortz.css"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^4.3.0",
+    "node-sass": "^4.12.0"
+  }
+}

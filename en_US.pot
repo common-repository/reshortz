@@ -1,0 +1,451 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ReShortz\n"
+"POT-Creation-Date: 2022-03-11 10:05+0200\n"
+"PO-Revision-Date: 2022-03-07 14:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: inc\n"
+
+#: src/core/Reshortz_AdminMenu.php:31 src/core/Reshortz_AdminMenu.php:32
+msgid "Manage Shortcodes"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:25
+msgid "ReShortz PRO comes with even more features!"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:27
+msgid "Built-in pre-roll video ads"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:28
+msgid "Pagination for ReShortz Cards"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:29
+msgid "Built-in analytics"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:30
+msgid "Users can comment on videos"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:31
+msgid "Developer Hooks"
+msgstr ""
+
+#: src/core/Reshortz_Core.php:33
+msgid "Buy PRO"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:31
+msgid "Upload a video"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:39
+msgid "Video duration (MS)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:44
+msgid ""
+"This will be used as fallback when the duration can not be loaded from meta "
+"data. Note that the player will play the whole video, this is only a "
+"reference for the progress bar."
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:47
+msgid "Go to URL"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:55
+msgid "ReShort Analytics"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:70
+msgid "ReShortz Collection"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:74
+msgid "What would you like to display?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:78
+msgid "Specific Reshortz"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:79
+msgid "All Reshortz"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:80
+msgid "Reshortz in Categories"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:81
+msgid "Reshortz having Tags"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:85 src/core/Reshortz_MetaBox.php:104
+#: src/core/Reshortz_MetaBox.php:159 src/core/Reshortz_MetaBox.php:173
+#: src/core/Reshortz_MetaBox.php:209 src/core/Reshortz_MetaBox.php:221
+#: src/core/Reshortz_MetaBox.php:233 src/core/Reshortz_MetaBox.php:245
+#: src/core/Reshortz_MetaBox.php:258 src/core/Reshortz_MetaBox.php:270
+#: src/core/Reshortz_MetaBox.php:282
+msgid "Choose an option"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:88
+msgid "How would you like them to be ordered?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:92
+msgid "Date (Newest first)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:93
+msgid "Date (Oldest first)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:94
+msgid "Likes (Most liked)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:95
+msgid "Likes (Less liked)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:96
+msgid "Views (Most viewed)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:97
+msgid "Views (Less viewed)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:98
+msgid "Comments (Most commented)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:99
+msgid "Comments (Less commented)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:107
+msgid "Select which ReShortz to include"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:120
+msgid "Reshortz Categories"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:128
+msgid "Reshortz Tags"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:136
+msgid "Total number of posts"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:139
+msgid ""
+"Choose how many posts you want to include. This does not apply for cases "
+"when you choose to display specific posts."
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:145
+msgid "UI Settings"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:149
+msgid "How would you like to display the items?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:153
+msgid "Reshortz Cards"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:154
+msgid "Story Circles"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:157
+msgid "Choose the way you want to display the shortcode."
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:162
+msgid "Choose behaviour"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:166
+msgid "Horizontal scroll"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:167
+msgid "Carousel"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:168
+msgid "Simple Grid"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:171
+msgid "Choose the way the shortcode should behave."
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:176
+msgid "Cards height (desktop)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:182
+msgid "Cards width (desktop)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:188
+msgid "Cards height (mobile)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:194
+msgid "Cards width (mobile)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:200
+msgid "Allow likes?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:204 src/core/Reshortz_MetaBox.php:216
+#: src/core/Reshortz_MetaBox.php:228 src/core/Reshortz_MetaBox.php:240
+#: src/core/Reshortz_MetaBox.php:253 src/core/Reshortz_MetaBox.php:265
+#: src/core/Reshortz_MetaBox.php:277
+msgid "Yes"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:205 src/core/Reshortz_MetaBox.php:217
+#: src/core/Reshortz_MetaBox.php:229 src/core/Reshortz_MetaBox.php:241
+#: src/core/Reshortz_MetaBox.php:254 src/core/Reshortz_MetaBox.php:266
+#: src/core/Reshortz_MetaBox.php:278
+msgid "No"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:212
+msgid "Show Categories?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:224
+msgid "Show Tags?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:236
+msgid "Show likes count?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:248
+msgid "Allow comments? (depends on post settings too)"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:251
+msgid "Will take into account comment settings at post-level."
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:261
+msgid "Show comments count?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:273
+msgid "Show views count?"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:288
+msgid "Shortcode Output"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:306 src/core/Reshortz_Post_Columns.php:117
+msgid "Click to copy"
+msgstr ""
+
+#: src/core/Reshortz_MetaBox.php:308 src/core/Reshortz_Post_Columns.php:119
+msgid "Copied!"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:39
+msgid "ReShortz Posts"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:40
+msgid "ReShort Post"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:41 src/core/Reshortz_PostTypes.php:65
+msgid "Add New"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:42
+msgid "Add New ReShort"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:43
+msgid "Edit ReShort"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:44
+msgid "New ReShort"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:45
+msgid "All ReShorts"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:46
+msgid "View ReShort"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:47
+msgid "Search ReShort"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:48
+msgid "No ReShorts found"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:49
+msgid "No ReShorts found in the Trash"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:50
+msgid "ReShortz"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:63 src/core/Reshortz_PostTypes.php:74
+msgid "Reshort Shortcodes"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:64
+msgid "Reshort Shortcode"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:66
+msgid "Add New Reshort Shortcode"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:67
+msgid "Edit Reshort Shortcode"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:68
+msgid "New Reshort Shortcode"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:69
+msgid "All Reshort Shortcodes"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:70
+msgid "View Reshort Shortcode"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:71
+msgid "Search Reshort Shortcodes"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:72
+msgid "No reshortz found"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:73
+msgid "No reshortz found in the Trash"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:96
+msgid "ReShortz Categories"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:97
+msgid "ReShort Category"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:98
+msgid "Search ReShortz Categories"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:99
+msgid "All ReShortz Categories"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:100 src/core/Reshortz_PostTypes.php:101
+msgid "Parent ReShort Category"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:102
+msgid "Edit ReShort Category"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:103
+msgid "Update ReShort Category"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:104
+msgid "Add New ReShort Category"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:105
+msgid "New ReShort Category Name"
+msgstr ""
+
+#: src/core/Reshortz_PostTypes.php:106
+msgid "Categories"
+msgstr ""
+
+#: src/core/Reshortz_Post_Columns.php:69
+msgid "Likes"
+msgstr ""
+
+#: src/core/Reshortz_Post_Columns.php:70
+msgid "Views"
+msgstr ""
+
+#: src/core/Reshortz_Post_Columns.php:102
+msgid "Shortcode"
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:72
+msgid "Tagged in"
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:73
+msgid "In category"
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:74
+msgid "Comments"
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:75
+msgid "No Comments yet."
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:76
+msgid "Comments are disabled."
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:77
+msgid "Comment added!"
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:78
+msgid "Show all"
+msgstr ""
+
+#: src/shortcodes/collection/Reshortz_Collection.php:79
+msgid "more to view"
+msgstr ""
